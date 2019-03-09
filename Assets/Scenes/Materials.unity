@@ -204,6 +204,11 @@ PrefabInstance:
       propertyPath: rotateSpeed.y
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3401656682662715667, guid: 23b31c16031a642989ee0b85926b63f0,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 4300000, guid: a49dfb3caef83408b815687874da1a5a, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 23b31c16031a642989ee0b85926b63f0, type: 3}
 --- !u!1001 &411439885
@@ -293,6 +298,11 @@ PrefabInstance:
       propertyPath: rotateSpeed.y
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3401656682662715667, guid: 5a1764fa149ee4c148e0e79f93c73b49,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 4300000, guid: a49dfb3caef83408b815687874da1a5a, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a1764fa149ee4c148e0e79f93c73b49, type: 3}
 --- !u!1 &954474956
@@ -701,6 +711,11 @@ PrefabInstance:
       propertyPath: rotateSpeed.y
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3401656682662715667, guid: 9a5ae056c3aaf4f459c3897676378f58,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 4300000, guid: a49dfb3caef83408b815687874da1a5a, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a5ae056c3aaf4f459c3897676378f58, type: 3}
 --- !u!1001 &1805192201
@@ -795,6 +810,11 @@ PrefabInstance:
       propertyPath: rotateSpeed.y
       value: -3
       objectReference: {fileID: 0}
+    - target: {fileID: 3401656682662715667, guid: e4b3b05cc6a6c46838fddd9a248373f2,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 4300000, guid: a49dfb3caef83408b815687874da1a5a, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e4b3b05cc6a6c46838fddd9a248373f2, type: 3}
 --- !u!1 &2011204166
@@ -1118,5 +1138,10 @@ PrefabInstance:
       propertyPath: rotateSpeed.y
       value: -1
       objectReference: {fileID: 0}
+    - target: {fileID: 3401656682662715667, guid: 94793c69799a84bdfb787dddba873bfd,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 4300000, guid: a49dfb3caef83408b815687874da1a5a, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 94793c69799a84bdfb787dddba873bfd, type: 3}
