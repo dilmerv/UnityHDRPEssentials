@@ -117,6 +117,7 @@ Material:
     - _AlphaCutoffEnable: 0
     - _AlphaCutoffPostpass: 0.5
     - _AlphaCutoffPrepass: 0.5
+    - _AlphaCutoffShadow: 0.5
     - _Anisotropy: 0
     - _BlendMode: 0
     - _CoatMask: 0
@@ -214,12 +215,14 @@ Material:
     - _UVBase: 0
     - _UVDetail: 0
     - _UVEmissive: 0
+    - _UseShadowThreshold: 0
     - _ZTestDepthEqualForOpaque: 3
     - _ZTestGBuffer: 4
     - _ZTestModeDistortion: 4
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 0.3962264, g: 0.33828765, b: 0.33828765, a: 1}
+    - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 0.39622638, g: 0.33828762, b: 0.33828762, a: 1}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
